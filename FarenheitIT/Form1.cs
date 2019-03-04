@@ -77,11 +77,11 @@ namespace WindowsFormsApp1
 
             if (check1)
             {
-                MessageBox.Show("Veuillez decochez une des 2 cases");
+                MessageBox.Show("Veuillez decocher une des 2 cases");
             }
             else if (check2)
             {
-                MessageBox.Show("Veuillez cochez une des 2 cases");
+                MessageBox.Show("Veuillez cocher une des 2 cases");
             }
 
             if (celciusVersFarenheit && !check1 && !check2 )
