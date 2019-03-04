@@ -17,3 +17,13 @@ C:\Users\CRM\Documents\Github\graphic\FarenheitIT\obj\Debug\FarenheitIT.csproj.G
 C:\Users\CRM\Documents\Github\graphic\FarenheitIT\obj\Debug\FarenheitIT.csproj.CoreCompileInputs.cache
 C:\Users\CRM\Documents\Github\graphic\FarenheitIT\obj\Debug\FarenheitIT.exe
 C:\Users\CRM\Documents\Github\graphic\FarenheitIT\obj\Debug\FarenheitIT.pdb
+C:\Users\Andréa\Documents\GitHub\graphic\FarenheitIT\bin\Debug\FarenheitIT.exe.config
+C:\Users\Andréa\Documents\GitHub\graphic\FarenheitIT\bin\Debug\FarenheitIT.exe
+C:\Users\Andréa\Documents\GitHub\graphic\FarenheitIT\bin\Debug\FarenheitIT.pdb
+C:\Users\Andréa\Documents\GitHub\graphic\FarenheitIT\obj\Debug\FarenheitIT.csprojAssemblyReference.cache
+C:\Users\Andréa\Documents\GitHub\graphic\FarenheitIT\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Andréa\Documents\GitHub\graphic\FarenheitIT\obj\Debug\FarenheitIT.Properties.Resources.resources
+C:\Users\Andréa\Documents\GitHub\graphic\FarenheitIT\obj\Debug\FarenheitIT.csproj.GenerateResource.cache
+C:\Users\Andréa\Documents\GitHub\graphic\FarenheitIT\obj\Debug\FarenheitIT.csproj.CoreCompileInputs.cache
+C:\Users\Andréa\Documents\GitHub\graphic\FarenheitIT\obj\Debug\FarenheitIT.exe
+C:\Users\Andréa\Documents\GitHub\graphic\FarenheitIT\obj\Debug\FarenheitIT.pdb
