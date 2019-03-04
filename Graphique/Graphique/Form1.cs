@@ -15,6 +15,7 @@ namespace Graphique
 
         public string reponse;
         public int reponse1;
+        public int nbreDeFois;
         public Form1()
         {
             InitializeComponent();
@@ -23,11 +24,14 @@ namespace Graphique
 
         private void m_myTestButton_Click(object sender, EventArgs e)
         {
-            for(int i = 0;i<reponse1;i++)
+            string reponse2 = null;
+
+            for (int i = 0; i < nbreDeFois; i++)
             {
-                MessageBox.Show(reponse);
+                reponse2 = reponse2 + Environment.NewLine + reponse;
             }
-            
+            MessageBox.Show("RecopY IT !" + Environment.NewLine + reponse2);
+
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -55,7 +59,35 @@ namespace Graphique
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
             string reponse2 = textBox2.Text;
-            reponse1 = int.Parse(reponse2);
+            try
+            {
+                nbreDeFois = int.Parse(reponse2);
+            }
+            catch
+            {
+                nbreDeFois = 1;
+            }
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World !");
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
