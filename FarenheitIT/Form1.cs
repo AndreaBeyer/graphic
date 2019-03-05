@@ -74,18 +74,19 @@ namespace WindowsFormsApp1
             bool check1 = checkBox1.Checked && checkBox2.Checked;
             bool check2 = !(checkBox1.Checked || checkBox2.Checked);
 
+
             if (check1)
             {
-                MessageBox.Show("Veuillez decochez une des 2 cases");
+                MessageBox.Show("Veuillez decocher une des 2 cases");
             }
             else if (check2)
             {
-                MessageBox.Show("Veuillez cochez une des 2 cases");
+                MessageBox.Show("Veuillez cocher une des 2 cases");
             }
 
             if (celciusVersFarenheit && !check1 && !check2 )
             {
-
+                
                 farenheit = temperatureEntree * 9 / 5 + 32;
                 farenheitDecimal = Math.Round(farenheit, 2);
 
