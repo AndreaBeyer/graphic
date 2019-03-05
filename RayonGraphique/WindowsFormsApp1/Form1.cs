@@ -40,11 +40,21 @@ namespace WindowsFormsApp1
 
         }
 
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             if (!ok)
             {
-                MessageBox.Show("l'entree est invalide");
+                
+                DavidGoodEnough Form3 = new DavidGoodEnough();
+
+            Form3.Show();
+
+
             }
             else
             {

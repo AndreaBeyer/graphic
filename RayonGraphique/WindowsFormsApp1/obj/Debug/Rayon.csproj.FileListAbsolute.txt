@@ -1,0 +1,15 @@
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\obj\Debug\Rayon.csproj.GenerateResource.cache
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\obj\Debug\Rayon.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DavidGoodEnough.resources
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\CRM\Documents\Github\graphic\RayonGraphique\WindowsFormsApp1\obj\Debug\Rayon.csprojAssemblyReference.cache
